@@ -14,4 +14,4 @@ Systems may fail, but growth endures.
 Concurrency teaches patience, debugging sharpens focus, and persistence transforms ideas into reality.  
 
 ## 🌍 Connect
-[LinkedIn](https://www.linkedin.com/in/akshayvadher) | [GitHub](https://github.com/akshay931)
+[LinkedIn](https://www.linkedin.com/in/akshay-vadher) | [GitHub](https://github.com/akshay931)
